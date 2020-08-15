@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#greeetings {
+  padding: 50px;
+  margin: 40px;
+  border: 2px solid black;
+}
